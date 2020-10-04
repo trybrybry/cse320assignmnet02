@@ -31,7 +31,7 @@ public class AddingMachine {
   
   public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	  	System.out.println("test 1");
+	  	System.out.println("test case 1 ");
 	}
 
 }
